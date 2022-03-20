@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LGMVIP_TASK2</string>
+    <string name="left_eyestr" />
+    <string name="right_eyestr" />
+    <string name="smilestr" />
+    <string name="zaxisstr" />
+    <string name="yaxisstr" />
+    <string name="xaxisstr" />
+    <string name="faceidstr" />
+</resources>

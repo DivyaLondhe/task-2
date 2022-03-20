@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnRotate" type="id" />
+    <item name="btnCapture" type="id" />
+    <item name="previewViewMain" type="id" />
+    <item name="graphicOverlay" type="id" />
+</resources>
